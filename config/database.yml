@@ -2,8 +2,8 @@ development:
   adapter: mysql
   database: freehub_for_all_development
   username: root
-  password:
-  host: 127.0.0.1
+  password: candaceridesaterry
+  host: localhost 
 
 # Warning: The database defined as 'test' will be erased and
 # re-generated from your development database when you run 'rake'.
@@ -12,5 +12,5 @@ test:
   adapter: mysql
   database: freehub_for_all_test
   username: root
-  password:
+  password: candaceridesaterry
   host: 127.0.0.1
