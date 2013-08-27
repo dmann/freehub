@@ -1,0 +1,119 @@
+# Logfile created on Wed Aug 07 17:12:11 -0400 2013 by logger.rb/1.2.6
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Starting the New Relic agent in "development" environment.
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Reading configuration from 
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] ERROR : Unable to read configuration file : can't convert nil into String
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Enabling the Request Sampler.
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Environment: development
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Dispatcher: webrick
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Application: development
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Installing deferred Rack instrumentation
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Installing ActiveRecord instrumentation
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Installing Net instrumentation
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Installing Rails 2 Error instrumentation
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Installing Rails 2 Controller instrumentation
+[08/07/13 17:12:11 -0400 freehub-VirtualBox (5729)] INFO : Finished instrumentation
+[08/07/13 17:12:12 -0400 freehub-VirtualBox (5729)] INFO : Doing deferred dependency-detection before Rack startup
+[08/27/13 15:04:43 -0400 freehub-VirtualBox (15546)] INFO : Starting the New Relic agent in "development" environment.
+[08/27/13 15:04:43 -0400 freehub-VirtualBox (15546)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/27/13 15:04:43 -0400 freehub-VirtualBox (15546)] INFO : Reading configuration from 
+[08/27/13 15:04:43 -0400 freehub-VirtualBox (15546)] ERROR : Unable to read configuration file : can't convert nil into String
+[08/27/13 15:04:43 -0400 freehub-VirtualBox (15546)] INFO : Enabling the Request Sampler.
+[08/27/13 15:04:43 -0400 freehub-VirtualBox (15546)] INFO : Environment: development
+[08/27/13 15:04:43 -0400 freehub-VirtualBox (15546)] INFO : Dispatcher: webrick
+[08/27/13 15:04:43 -0400 freehub-VirtualBox (15546)] INFO : Application: development
+[08/27/13 15:04:43 -0400 freehub-VirtualBox (15546)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[08/27/13 15:04:44 -0400 freehub-VirtualBox (15546)] INFO : Installing deferred Rack instrumentation
+[08/27/13 15:04:44 -0400 freehub-VirtualBox (15546)] INFO : Installing ActiveRecord instrumentation
+[08/27/13 15:04:44 -0400 freehub-VirtualBox (15546)] INFO : Installing Net instrumentation
+[08/27/13 15:04:44 -0400 freehub-VirtualBox (15546)] INFO : Installing Rails 2 Error instrumentation
+[08/27/13 15:04:44 -0400 freehub-VirtualBox (15546)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[08/27/13 15:04:44 -0400 freehub-VirtualBox (15546)] INFO : Installing Rails 2 Controller instrumentation
+[08/27/13 15:04:44 -0400 freehub-VirtualBox (15546)] INFO : Finished instrumentation
+[08/27/13 15:04:45 -0400 freehub-VirtualBox (15546)] INFO : Doing deferred dependency-detection before Rack startup
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : Starting the New Relic agent in "development" environment.
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : Reading configuration from 
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] ERROR : Unable to read configuration file : can't convert nil into String
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : Enabling the Request Sampler.
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : Environment: development
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : No known dispatcher detected.
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : Application: development
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : Installing deferred Rack instrumentation
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : Installing ActiveRecord instrumentation
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : Installing Net instrumentation
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : Installing Rails 2 Error instrumentation
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : Installing Rails 2 Controller instrumentation
+[08/27/13 15:05:53 -0400 freehub-VirtualBox (15654)] INFO : Finished instrumentation
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Starting the New Relic agent in "development" environment.
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Reading configuration from 
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] ERROR : Unable to read configuration file : can't convert nil into String
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Enabling the Request Sampler.
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Environment: development
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Dispatcher: webrick
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Application: development
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Installing deferred Rack instrumentation
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Installing ActiveRecord instrumentation
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Installing Net instrumentation
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Installing Rails 2 Error instrumentation
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Installing Rails 2 Controller instrumentation
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Finished instrumentation
+[08/27/13 15:18:34 -0400 freehub-VirtualBox (15775)] INFO : Doing deferred dependency-detection before Rack startup
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Starting the New Relic agent in "development" environment.
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Reading configuration from 
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] ERROR : Unable to read configuration file : can't convert nil into String
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Enabling the Request Sampler.
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Environment: development
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Dispatcher: webrick
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Application: development
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Installing deferred Rack instrumentation
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Installing ActiveRecord instrumentation
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Installing Net instrumentation
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Installing Rails 2 Error instrumentation
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Installing Rails 2 Controller instrumentation
+[08/27/13 15:26:18 -0400 freehub-VirtualBox (16197)] INFO : Finished instrumentation
+[08/27/13 15:26:19 -0400 freehub-VirtualBox (16197)] INFO : Doing deferred dependency-detection before Rack startup
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Starting the New Relic agent in "development" environment.
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Reading configuration from 
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] ERROR : Unable to read configuration file : can't convert nil into String
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Enabling the Request Sampler.
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Environment: development
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Dispatcher: webrick
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Application: development
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Installing deferred Rack instrumentation
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Installing ActiveRecord instrumentation
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Installing Net instrumentation
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Installing Rails 2 Error instrumentation
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Installing Rails 2 Controller instrumentation
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Finished instrumentation
+[08/27/13 15:32:44 -0400 freehub-VirtualBox (16354)] INFO : Doing deferred dependency-detection before Rack startup
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Starting the New Relic agent in "development" environment.
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Reading configuration from 
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] ERROR : Unable to read configuration file : can't convert nil into String
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Enabling the Request Sampler.
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Environment: development
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Dispatcher: webrick
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Application: development
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Installing deferred Rack instrumentation
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Installing ActiveRecord instrumentation
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Installing Net instrumentation
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Installing Rails 2 Error instrumentation
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Installing Rails 2 Controller instrumentation
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Finished instrumentation
+[08/27/13 15:43:18 -0400 freehub-VirtualBox (16556)] INFO : Doing deferred dependency-detection before Rack startup
