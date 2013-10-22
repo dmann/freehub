@@ -5,6 +5,7 @@
 #  id            :integer(4)      not null, primary key
 #  arrived_at    :datetime
 #  volunteer     :boolean(1)      default(FALSE)
+#  bike_earned   :boolean(1)      default(FALSE)
 #  created_at    :datetime
 #  updated_at    :datetime
 #  created_by_id :integer(4)
